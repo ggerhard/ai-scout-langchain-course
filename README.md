@@ -71,7 +71,6 @@ Die Inhalte wurden mit Unterstützung von **Claude AI** erstellt und von mir als
 - AI kann Lernmaterial sehr gut strukturieren, aber **eigene Priorisierung & Praxisbezug sind entscheidend**.  
 - **LangChain** ist mächtig, aber nicht immer die leichtgewichtigste Lösung – wichtig, Use-Cases kritisch zu prüfen.  
 - Claude Desktop unterbricht bei längeren Aufgaben immer wieder die Arbeit. Claude CLI und andere CLI Agents können mehrstufige Aufgaben dagegen ohne unterbrechung abarbeiten.
-- Besonders spannend: **RAG und Agents** als Bausteine für interne Tools und Presales-Demos.  
 
 ---
 
@@ -81,7 +80,7 @@ Die Inhalte wurden mit Unterstützung von **Claude AI** erstellt und von mir als
 - [Streamlit](https://streamlit.io/)  
 
 ---
-*Hinweis: Das Kursmaterial teilweise mit AI generiert (Claude). Fokus liegt auf Evaluierung & Praxis-Playground, nicht auf Vollständigkeit.*
+*Hinweis: Das Kursmaterial teilweise mit AI generiert (Claude). Fokus liegt auf der Evaluierung von Tools, nicht auf Vollständigkeit.*
 
 
 
